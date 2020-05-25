@@ -19,8 +19,7 @@ public class ContactStepsDefs {
 
     @When("I click on contact menu")
     public void i_click_on_contact_menu() {
-        // Write code here that turns the phrase above into concrete actions
-        throw new io.cucumber.java.PendingException();
+
     }
 
     @When("Select the option {string}")
