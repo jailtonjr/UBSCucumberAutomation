@@ -4,6 +4,7 @@ Features:
 - Page Object Models
 - Page Factory
 - Cucumber (Using @Before and @After notations)
+- Maven
 - WebDriverManager 
 
 Future Improvements:
